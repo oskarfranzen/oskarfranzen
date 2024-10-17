@@ -1,5 +1,3 @@
-## Hello there! 💥 
-
 <img src="/image.png" alt="image" />
 <!--
 **oskarfranzen/oskarfranzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
